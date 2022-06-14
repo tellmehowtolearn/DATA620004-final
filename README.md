@@ -61,7 +61,8 @@ val_dataset = DatasetSeq(cityscapes_data_path="D:/Code/python/deeplabv3/data/cit
 
 之后就可以运行run_on_seq.py测试了，运行结果保存在**deeplabv3\training_logs\model_eval_seq**文件夹下。
 
-本实验测试用例来自YouTube视频https://www.youtube.com/watch?v=fkps18H3SXY&ab_channel=4KUrbanLife，并且用PR软件截取了部分片段并转换成了帧图片序列进行测试。
+本实验测试用例来自YouTube视频https://www.youtube.com/watch?v=fkps18H3SXY&ab_channel=4KUrbanLife，
+并且用PR软件截取了部分片段并转换成了帧图片序列进行测试。
 
 最后产生的测试结果视频上传至了百度网盘：
 
